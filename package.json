@@ -56,9 +56,11 @@
     "@popperjs/core": "2.11.5",
     "bootstrap": "5.2.0",
     "chart.js": "2.9.4",
+    "express": "^4.18.2",
     "feather-icons": "4.29.0",
     "flatpickr": "4.6.13",
     "jsvectormap": "1.5.0",
+    "mysql": "^2.18.1",
     "simplebar": "5.3.8"
   },
   "devDependencies": {
